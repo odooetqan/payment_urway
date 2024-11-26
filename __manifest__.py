@@ -4,7 +4,7 @@
     'name': "Payment Provider: URWAY (Redirect)",
     'version': '17.0.1.2.1',
     'category': 'Accounting/Payment Providers',
-    'sequence': 300,
+    'sequence': -10,
     'summary': "Allows you to accept mada / VISA / MasterCard via secure payment gateway.",
     'depends': ['payment', 'account'],  
     'data': [
